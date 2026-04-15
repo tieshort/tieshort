@@ -1,5 +1,9 @@
 ## Hi there 👋 name's Gleb Razumov
 
+💼 Tutor · Freelancer
+
+🎓 Software Engineering · Software Quality Management
+
 🖥 Backend · Data Science/ML · DevOps · Quality Management
 
 🎮 Casual Gamer · Gutarist/Singer · Thrash Anime/Manga Enjoyer · Cooking Enthusiast · GameDev Simp
